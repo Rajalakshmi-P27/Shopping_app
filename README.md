@@ -1,6 +1,10 @@
 # shop_app
 
 
+#About
+Developed a shopping app with product listings, favorites tab, and detailed product view. Used MVVM Architecture and Provider for state management.
+
+
 
 
 
